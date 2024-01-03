@@ -20,8 +20,8 @@ use to
 
 */
 
-function numberToString(num){
-    return num.toString();
+function numberToString(num) {
+  return num.toString();
 }
 
 console.log(numberToString(123));
